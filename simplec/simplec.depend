@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513062487 source:c:\users\madalitso\documents\compusoft\simplec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
