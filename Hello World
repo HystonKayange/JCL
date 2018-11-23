@@ -1,0 +1,20 @@
+#include<iostream)
+
+using name space std;
+
+class Hello{
+
+      public:
+      
+      void world(){
+       cout<<"Hello World"<<endl;
+      }
+
+};
+
+int main(){
+   Hello W;
+   W.world();
+   return 0;
+
+}
